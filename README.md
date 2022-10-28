@@ -4,3 +4,5 @@
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=43c459)
 ![VisualStudioCode](https://img.shields.io/badge/-VSC-090909?style=for-the-badge&logo=VisualStudio&logoColor=097CBD)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shemdy)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=dark&hide=issues,prs)
