@@ -4,7 +4,6 @@
 ![Lua](https://img.shields.io/badge/-LUA-090909?style=for-the-badge&logo=LUA&logoColor=80A6FF)
 ![VisualStudioCode](https://img.shields.io/badge/-VSC-090909?style=for-the-badge&logo=VisualStudio&logoColor=097CBD)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql)
-![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=43c459)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shemdy&count_private=true&show_icons=true&theme=dark&hide=issues,prs)]
